@@ -1,15 +1,15 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Starter for Node JS CRUD API",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Harikrushn Kanani",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
