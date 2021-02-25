@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "A Starter for Node JS CRUD API",
+  "description": "A Starter for Node JS CRUD API.",
   "main": "index.js",
   "type": "module",
   "scripts": {
